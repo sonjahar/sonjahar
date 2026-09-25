@@ -1,4 +1,4 @@
-# Hello!
+## Hello!
 
 ### I'm Sonja, a kiwi studying Computing and Software Systems at University of Melbourne 
 

@@ -3,6 +3,15 @@
 ### I'm Sonja, a kiwi studying Computing and Software Systems at University of Melbourne 
 
 Unfortunately, currently all my repos are private as they are university projects! Hopefully will be working on public ones soon :)
+Skills:
+ • Python, Java, C, mySQL
+ • Docker, VMs, Git (lol)
+I'm currently learning web development, wanting to create my own personal website when I get the chance!
+
+Outside of compsci/coding, I'm interested in photography, astronomy, aviation and wild life!
+
+![starry sky](<img width="1116" height="296" alt="image" src="https://github.com/user-attachments/assets/093cacf2-c8bb-461d-8fa0-93df673ad4db" />
+)
 
 
 <!--

@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello!
+
+# I'm Sonja, a kiwi studying Computing and Software Systems at University of Melbourne 
+
+Unfortunately, currently all my repos are private as they are university projects! Hopefully will be working on public ones soon :)
+
 
 <!--
 **sonjahar/sonjahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

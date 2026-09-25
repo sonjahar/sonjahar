@@ -5,7 +5,7 @@
 Unfortunately, currently all my repos/projects are private or under organizations as they are university projects! Hopefully will be working on public ones soon :)   
 Skills:  
  • Python, Java, C, mySQL  
- • Docker, VMs, Git (lol)  
+ • Docker, VMs, GitHub 
     
 I'm currently learning web development, wanting to create my own personal website when I get the chance!   
 

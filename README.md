@@ -10,7 +10,7 @@ I'm currently learning web development, wanting to create my own personal websit
 
 Outside of compsci/coding, I'm interested in photography, astronomy, aviation and wild life!
 
-![starry sky](https://i.pinimg.com/1200x/ae/14/49/ae14494d198ee113ae49386612d28e11.jpg)
+![starry sky](https://i.pinimg.com/1200x/ae/e2/f2/aee2f23b3c73d40cf5c4bb7fcb54cc5a.jpg)
 
 
 <!--

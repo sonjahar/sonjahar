@@ -2,7 +2,7 @@
 
 ### I'm Sonja, a kiwi studying Computing and Software Systems at University of Melbourne 
 
-Unfortunately, currently all my repos are private as they are university projects! Hopefully will be working on public ones soon :)   
+Unfortunately, currently all my repos/projects are private or under organizations as they are university projects! Hopefully will be working on public ones soon :)   
 Skills:  
  • Python, Java, C, mySQL  
  • Docker, VMs, Git (lol)  

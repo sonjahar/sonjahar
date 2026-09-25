@@ -10,9 +10,7 @@ I'm currently learning web development, wanting to create my own personal websit
 
 Outside of compsci/coding, I'm interested in photography, astronomy, aviation and wild life!
 
-![starry sky](<img width="736" height="460" alt="image" src="https://github.com/user-attachments/assets/ee46f825-f512-4deb-ac79-a5107e6decf0" />
-)
-
+![starry sky](https://i.pinimg.com/736x/58/62/b7/5862b7a819bce29fa834ebcee0ee4267.jpg)
 
 <!--
 **sonjahar/sonjahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
